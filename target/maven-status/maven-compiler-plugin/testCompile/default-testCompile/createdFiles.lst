@@ -1,0 +1,6 @@
+com\fitness\workout\TimerManagerTest.class
+com\fitness\analysis\RepCounterTest.class
+com\fitness\analysis\SetDetectorTest.class
+com\fitness\database\DatabaseManagerTest.class
+com\fitness\analysis\OneEuroFilterTest.class
+com\fitness\analysis\RestDetectorTest.class
